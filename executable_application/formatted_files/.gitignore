@@ -1,0 +1,9 @@
+##############################
+# Files/File-pattern to ignore
+##############################
+
+# Ignore everything in this directory containing the application generated files (default location)
+*
+
+# Except this file
+!.gitignore

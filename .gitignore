@@ -1,0 +1,19 @@
+##############################
+# Files/File-pattern to ignore
+##############################
+
+# Emacs, Vi and other editor temp files
+*~
+.#*
+
+# Files and folders in IDEs
+bin/
+.classpath
+.project
+.settings
+
+# Build destination for Maven
+target/
+
+# Mac custom attributes file
+.DS_Store
