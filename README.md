@@ -35,7 +35,9 @@ In this example, we say that ``|`` is the delimiter character that separates the
 
 ## Requirements
 
-- Maven (if attempting to build the executable jar file)
+- Java Runtime Environment (JRE) version ``1.8.0_333`` or later (to run the executable jar file).
+- Java Development Kit (JDK) version ``1.8.0_333`` or later (if attempting to build the executable jar file).
+- Maven (if attempting to build the executable jar file).
 
 ## Build Executable jar
 
